@@ -1,2 +1,2 @@
-# Stock_Autoencoder_MLP
+# Stock Autoencoder MLP
 Supervised Autoencoder MLP models for Stock Price Prediction
